@@ -7,7 +7,7 @@ To find (a) average number of materials in the system (b) average number of mate
 ## Software required :
 Visual components and Python
 
-## Theory
+## Theory:
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
 ## Procedure :
@@ -62,9 +62,9 @@ else:
 print("-----------------------------------------------------------------
 ```
 
-## Output
+## Output:
 ![maths prob 6c](https://github.com/sudharsanakumar18/Open-Jacson-Networks/assets/138849110/51df2dce-383a-44f9-ae54-994638e969b5)
 
 
-## Result
+## Result:
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
