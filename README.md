@@ -1,7 +1,7 @@
 # DATE:
 # EXP NO:6 - Series Queues with infinite capacity - Open Jackson Network
 
-## Aim :
+## Aim:
 To find
 (a) average number of materials in the system
 (b) average number of materials in the each conveyor of
