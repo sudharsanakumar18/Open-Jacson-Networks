@@ -23,6 +23,7 @@ Visual components and Python
 ## Experiment:
 
 ![maths prob 6b](https://github.com/sudharsanakumar18/Open-Jacson-Networks/assets/138849110/692782ec-6602-4e9e-87dc-e6343c566475)
+![maths prob 6b](https://github.com/sudharsanakumar18/Open-Jacson-Networks/assets/138849110/692782ec-6602-4e9e-87dc-e6343c566475)
 
 
 ## Program
